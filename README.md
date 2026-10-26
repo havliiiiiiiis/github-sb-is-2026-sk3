@@ -6,3 +6,7 @@ Stav: Mám vyklonovaný repozitář.
 
 Změna provedena na GitHubu dne 8.10.2026 v 17:23.
 Stav: Úspěšně jsem poslal commit z lokálu na GitHub.
+
+
+
+Test commitu
