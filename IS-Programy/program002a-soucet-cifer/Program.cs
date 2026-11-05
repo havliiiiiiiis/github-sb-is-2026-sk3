@@ -45,7 +45,7 @@ while(again.ToLower() == "a")
     }
     else
     {
-        number = -number;
+        
     }
 
 
