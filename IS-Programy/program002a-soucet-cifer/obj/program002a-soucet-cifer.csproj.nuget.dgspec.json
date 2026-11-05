@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
+    "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
+    "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectUniqueName": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "projectName": "program002a-soucet-cifer",
-        "projectPath": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
+        "projectPath": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\program002a-soucet-cifer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\obj\\",
+        "outputPath": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program002a-soucet-cifer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
