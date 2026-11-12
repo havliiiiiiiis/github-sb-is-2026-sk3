@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj": {}
+    "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj": {}
   },
   "projects": {
-    "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj": {
+    "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj",
+        "projectUniqueName": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj",
         "projectName": "program003a-obdelnik",
-        "projectPath": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj",
+        "projectPath": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\program003a-obdelnik.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "c:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\obj\\",
+        "outputPath": "C:\\aaa\\github-sb-is-2026-sk3\\IS-Programy\\program003a-obdelnik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config"
